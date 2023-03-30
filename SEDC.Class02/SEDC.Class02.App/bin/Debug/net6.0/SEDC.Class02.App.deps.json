@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SEDC.Class02.App/1.0.0": {
+        "dependencies": {
+          "SEDC.Class02.Exercise": "1.0.0"
+        },
+        "runtime": {
+          "SEDC.Class02.App.dll": {}
+        }
+      },
+      "SEDC.Class02.Exercise/1.0.0": {
+        "runtime": {
+          "SEDC.Class02.Exercise.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SEDC.Class02.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SEDC.Class02.Exercise/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

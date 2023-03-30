@@ -1,0 +1,12 @@
+C:\Users\Dell\Desktop\predavanja\C# Advanced\SEDC.AbstractClassesAndInterfaces\SEDC.Class02\SEDC.Class02.Exercise\bin\Debug\net6.0\SEDC.Class02.Exercise.deps.json
+C:\Users\Dell\Desktop\predavanja\C# Advanced\SEDC.AbstractClassesAndInterfaces\SEDC.Class02\SEDC.Class02.Exercise\bin\Debug\net6.0\SEDC.Class02.Exercise.dll
+C:\Users\Dell\Desktop\predavanja\C# Advanced\SEDC.AbstractClassesAndInterfaces\SEDC.Class02\SEDC.Class02.Exercise\bin\Debug\net6.0\SEDC.Class02.Exercise.pdb
+C:\Users\Dell\Desktop\predavanja\C# Advanced\SEDC.AbstractClassesAndInterfaces\SEDC.Class02\SEDC.Class02.Exercise\obj\Debug\net6.0\SEDC.Class02.Exercise.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\predavanja\C# Advanced\SEDC.AbstractClassesAndInterfaces\SEDC.Class02\SEDC.Class02.Exercise\obj\Debug\net6.0\SEDC.Class02.Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\predavanja\C# Advanced\SEDC.AbstractClassesAndInterfaces\SEDC.Class02\SEDC.Class02.Exercise\obj\Debug\net6.0\SEDC.Class02.Exercise.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\predavanja\C# Advanced\SEDC.AbstractClassesAndInterfaces\SEDC.Class02\SEDC.Class02.Exercise\obj\Debug\net6.0\SEDC.Class02.Exercise.AssemblyInfo.cs
+C:\Users\Dell\Desktop\predavanja\C# Advanced\SEDC.AbstractClassesAndInterfaces\SEDC.Class02\SEDC.Class02.Exercise\obj\Debug\net6.0\SEDC.Class02.Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\predavanja\C# Advanced\SEDC.AbstractClassesAndInterfaces\SEDC.Class02\SEDC.Class02.Exercise\obj\Debug\net6.0\SEDC.Class02.Exercise.dll
+C:\Users\Dell\Desktop\predavanja\C# Advanced\SEDC.AbstractClassesAndInterfaces\SEDC.Class02\SEDC.Class02.Exercise\obj\Debug\net6.0\refint\SEDC.Class02.Exercise.dll
+C:\Users\Dell\Desktop\predavanja\C# Advanced\SEDC.AbstractClassesAndInterfaces\SEDC.Class02\SEDC.Class02.Exercise\obj\Debug\net6.0\SEDC.Class02.Exercise.pdb
+C:\Users\Dell\Desktop\predavanja\C# Advanced\SEDC.AbstractClassesAndInterfaces\SEDC.Class02\SEDC.Class02.Exercise\obj\Debug\net6.0\ref\SEDC.Class02.Exercise.dll
